@@ -1,0 +1,12 @@
+{
+  "name": "avance-proyecto-dfs",
+  "version": "1.0.0",
+  "description": "Este proyecto es el primer avance del sistema Fitnessstudio, una solución de gestión para gimnasios.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
